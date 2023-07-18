@@ -1,5 +1,5 @@
 
-//Alvaro Nunez Final project
+//Alvaro Nunez
 //Just the menu
 
 using System;

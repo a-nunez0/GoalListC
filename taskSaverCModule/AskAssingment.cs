@@ -1,5 +1,5 @@
 
-//Final project Alvaro Nunez
+//Alvaro Nunez
 //Save data from the AskToDo class
 public abstract class AskAssingment
 {

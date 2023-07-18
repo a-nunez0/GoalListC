@@ -1,5 +1,5 @@
 
-//Alvaro Final project
+//Alvaro
 //Save and loads the assingments in a txt file
 
 using System;

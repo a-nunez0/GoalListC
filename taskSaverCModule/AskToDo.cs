@@ -1,5 +1,5 @@
 
-//final Project Alvaro
+//Alvaro
 //Add new asssingment class
 
 public class AskToDo : AskAssingment

@@ -1,5 +1,5 @@
 
-//Final project Alvaro Nunez
+//Alvaro Nunez
 //Joins all the classes and uses all their functions.
 
 using System;
